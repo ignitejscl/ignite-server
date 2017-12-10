@@ -1,0 +1,27 @@
+{
+  "name": "ignite-server",
+  "version": "0.0.1",
+  "description": "Ignite Server is apart of the Ignite.js Family, it's responsible for hosting code, and running configuration tasks at intervals.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ignitejscl/ignite-server.git"
+  },
+  "keywords": [
+    "ignite-server",
+    "igniteserver",
+    "ignite_server"
+  ],
+  "author": "Michael <michaeldoestech@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ignitejscl/ignite-server/issues"
+  },
+  "homepage": "https://github.com/ignitejscl/ignite-server#readme",
+  "dependencies": {
+    "formidable": "^1.1.1"
+  }
+}
